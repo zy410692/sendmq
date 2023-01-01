@@ -1,0 +1,18 @@
+{
+  "build_id": "1517",
+  "pipeline_type": "dev",
+  "job_name": "pc-frontend",
+  "group": "imp",
+  "target_branch": "origin/develop",
+  "operator": "钟阳",
+  "git_commit": "ccda015b5e1339c6eb93d3624f0e2e1a37e1a85a",
+  "commiter_name": "钟阳",
+  "commiter_email": "zhongyang@travelsky.com.cn",
+  "author_name": "钟阳",
+  "author_email": "zhongyang@travelsky.com.cn",
+  "stage": {
+      "stage_name": "sonar_scan",
+      "stage_status": "end",
+      "time": "2022-03-15 23:06:13"
+    }
+}
